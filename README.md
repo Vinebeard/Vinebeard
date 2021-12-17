@@ -2,7 +2,7 @@
 - 👀 I’m interested in Technology and Apple
 - 🌱 I’m currently learning .NET Core (when I get the chance)
 - 💞️ I’m looking to collaborate on anything, but mostly Public Cloud related
-- 📫 You can reach me via @Vinebeard or dennis.bouma@visma.com
+- 📫 You can reach me via @Vinebeard or via my email
 
 <!---
 Vinebeard/Vinebeard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
